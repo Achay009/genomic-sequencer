@@ -1,0 +1,7 @@
+pandas==1.3.3
+joblib
+pathlib
+streamlit==0.89.0
+matplotlib
+sklearn
+pillow==7.0.0
